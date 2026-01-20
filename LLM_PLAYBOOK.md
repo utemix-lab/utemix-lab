@@ -112,6 +112,22 @@ dream-graph / godot-sandbox / vovaipetrova-site (рендерит)
 
 ---
 
+## Слои согласованности
+
+Экосистема имеет **5 слоёв**, каждый определяет следующий:
+
+```
+1. Философский (VISION.md)      → ЗАЧЕМ?
+2. Онтологический (Universe Graph) → ЧТО ЕСТЬ?
+3. Навигационный (Route Graph)     → КАК ПРОХОДИТЬ?
+4. Контрактный (contracts/*.json)  → КАК ОТОБРАЖАТЬ?
+5. Рендер (dream-graph, godot)     → ЧТО ВИДИТ ПОЛЬЗОВАТЕЛЬ?
+```
+
+**Подробно:** [COHERENCE_LAYERS.md](https://github.com/utemix-lab/extended-mind/blob/main/docs/architecture/COHERENCE_LAYERS.md)
+
+---
+
 ## Ключевые концепции
 
 ### Universe Graph
