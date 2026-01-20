@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-01-14T23:26:03.496Z",
+  "period": {
+    "start": null,
+    "end": "2026-01-14T23:26:03.497Z"
+  },
+  "reports": {
+    "linkMap": {
+      "totalBroken": 0,
+      "internalMissing": 0,
+      "external": 0,
+      "service": 0,
+      "issues": []
+    },
+    "stats": {
+      "totalPages": 0,
+      "ready": 0,
+      "review": 0,
+      "draft": 0,
+      "readyRate": 0,
+      "totalIssues": 0,
+      "topProblems": []
+    },
+    "lint": {
+      "errors": 0,
+      "warnings": 0,
+      "hasErrors": false,
+      "hasWarnings": false
+    },
+    "stories": {
+      "total": 0,
+      "ready": 0,
+      "review": 0,
+      "draft": 0
+    },
+    "kbIndex": {
+      "totalPages": 0,
+      "letters": [],
+      "termsCount": 0
+    },
+    "rag": {
+      "version": "v1",
+      "docsCount": 0,
+      "storiesCount": 0,
+      "slicesCount": 0,
+      "sizes": {
+        "kb": 0,
+        "stories": 0,
+        "canonMap": 0,
+        "total": 0
+      },
+      "lintErrors": 0,
+      "lastUpdated": "2026-01-14T23:26:03.498Z"
+    }
+  },
+  "summary": {
+    "health": "healthy",
+    "totalIssues": 0,
+    "totalWarnings": 0,
+    "metrics": {
+      "pages": 0,
+      "readyRate": 0,
+      "brokenLinks": 0,
+      "lintErrors": 0,
+      "flakyJobs": 0,
+      "ciSuccessRate": null
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "medium",
+      "category": "content",
+      "message": "Низкий процент готового контента (0%). Увеличить количество страниц в статусе ready"
+    }
+  ]
+}

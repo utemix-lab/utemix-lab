@@ -64,9 +64,18 @@ Route Graph и Session всегда конечны и проверяемы.
 |----------|-----|--------------|
 | **VISION.md** | extended-mind/ | Философия и видение экосистемы |
 | **LLM_PLAYBOOK.md** | utemix-lab/ | Быстрый старт для LLM |
+| **COHERENCE_LAYERS.md** | extended-mind/docs/architecture/ | Слои согласованности (5 уровней) |
 | **MANIFEST.md** | extended-mind/docs/graph/ | 7 инвариантов Canon/Route/Session |
 | **META_GRAPH_SPEC.md** | extended-mind/docs/graph/ | Типы узлов и связей Universe Graph |
 | **SINGLE-SOURCE-PLAYBOOK.md** | vovaipetrova-core/docs/ | Правила работы Notion↔GitHub |
+
+## Операционные документы
+
+| Документ | Что содержит |
+|----------|--------------|
+| [NEW_REPO_CHECKLIST.md](./docs/NEW_REPO_CHECKLIST.md) | Чеклист создания нового репо |
+| [CHECKPOINT_GUIDE.md](./docs/CHECKPOINT_GUIDE.md) | Как вести периодические ревизии |
+| [checkpoints/](./checkpoints/) | Журнал состояния экосистемы |
 
 ## Потоки данных
 
@@ -92,6 +101,12 @@ R:\
 ├── utemix-lab/              # Этот workspace (организация)
 │   ├── README.md            # ← Вы здесь
 │   ├── LLM_PLAYBOOK.md      # Быстрый старт для LLM
+│   ├── LICENSE              # MIT
+│   ├── docs/                # Операционные документы
+│   │   ├── NEW_REPO_CHECKLIST.md
+│   │   └── CHECKPOINT_GUIDE.md
+│   ├── checkpoints/         # Журнал ревизий
+│   │   └── 2026-01-20.md    # Первый checkpoint
 │   └── utemix-lab.code-workspace
 ├── extended-mind/           # Мета-координатор
 ├── vovaipetrova-core/       # Канон
@@ -105,7 +120,7 @@ R:\
 
 ## Лицензия
 
-Разные репозитории имеют разные лицензии. См. LICENSE в каждом репо.
+**Все 9 репозиториев под единой лицензией MIT.**
 
 ---
 
