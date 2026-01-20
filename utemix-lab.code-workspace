@@ -1,0 +1,68 @@
+{
+  "folders": [
+    {
+      "name": "🌐 utemix-lab",
+      "path": ".",
+      "description": "Карта экосистемы и LLM Playbook — точка входа"
+    },
+    {
+      "name": "📦 vovaipetrova-core",
+      "path": "..\\vovaipetrova-core",
+      "description": "Мастерская: база знаний, процессы, экспорт данных"
+    },
+    {
+      "name": "🌐 vovaipetrova-site",
+      "path": "..\\vovaipetrova-site",
+      "description": "Мастерская: статический сайт, витрина проекта"
+    },
+    {
+      "name": "💭 dream-graph",
+      "path": "..\\dream-graph",
+      "description": "Мастерская: визуализация графов экосистемы"
+    },
+    {
+      "name": "🔬 evoquant",
+      "path": "..\\evoquant",
+      "description": "Мастерская: Evoquant проект"
+    },
+    {
+      "name": "🔮 extended-mind",
+      "path": "..\\extended-mind",
+      "description": "Мастерская: центральное смысловое ядро, метамодель"
+    },
+    {
+      "name": "🔍 minds-lorgnette",
+      "path": "..\\minds-lorgnette",
+      "description": "Мастерская: Minds Lorgnette проект"
+    },
+    {
+      "name": "📋 contracts",
+      "path": "..\\contracts",
+      "description": "Хаб контрактов: UI-контракты и ассеты для всех рендеров"
+    },
+    {
+      "name": "🎮 godot-sandbox",
+      "path": "..\\godot-sandbox",
+      "description": "Песочница: Godot тестирование контрактов"
+    }
+  ],
+  "settings": {
+    "files.defaultLanguage": "markdown",
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.exclude": {
+      "$RECYCLE.BIN": true,
+      "System Volume Information": true,
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/.git": true,
+      "**/tmp*": true,
+      "**/.vs": true
+    },
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/tmp*": true
+    }
+  }
+}
