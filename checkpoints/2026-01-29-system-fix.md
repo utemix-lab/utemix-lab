@@ -27,7 +27,7 @@
 ---
 
 ## GitHub экспорт
-Не выполнен в этом фиксе (нет commit/push).
+Выполнен: commit + push в `utemix-lab` (main).
 
 ---
 
