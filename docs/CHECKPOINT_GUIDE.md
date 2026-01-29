@@ -37,6 +37,54 @@ Checkpoint — это снимок состояния экосистемы с а
 
 ---
 
+## System Fix — шаблон
+
+Файл: `checkpoints/YYYY-MM-DD-system-fix.md`
+
+```markdown
+# System Fix: YYYY-MM-DD
+
+**Тип:** System Fix (мини-ревизия)  
+**Автор:** [LLM/Human]
+
+---
+
+## Снимок состояния
+### Обновления концепта и спецификаций
+- [...]
+
+### Данные и ассеты
+- [...]
+
+### Viewer (dream-graph)
+- [...]
+
+### Инструменты
+- [...]
+
+---
+
+## GitHub экспорт
+- [ ] commit
+- [ ] push
+
+---
+
+## Следующий System Fix
+- [...]
+```
+
+## System Fix — чеклист
+- [ ] Обновить `SYSTEM_OVERVIEW.md`
+- [ ] При необходимости обновить `PROJECT_OVERVIEW.md`
+- [ ] Создать `checkpoints/YYYY-MM-DD-system-fix.md`
+- [ ] Зафиксировать ADR (если было)
+- [ ] Обновить story-node (если было)
+- [ ] Раздать фичи персонажам (если было)
+- [ ] Commit + push
+
+---
+
 ## Когда создавать checkpoint
 
 ### Обязательные триггеры

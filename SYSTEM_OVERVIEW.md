@@ -24,6 +24,9 @@ Short, current-state reference. For concept/intent, see `PROJECT_OVERVIEW.md`.
 - Exports manifest structured as `exports.catalogs` + `exports.registries`.
 - `loadExports()` in `dream-graph` handles manifest + fallback.
 - Flags stored as `contracts/public/assets/flags/*.png`.
+- System docs established in `extended-mind/docs/system` (intent, goals, functions, guardrails, checks).
+- Mechanisms-to-goals map added (`MECHANISMS_TO_GOALS.md`) with UG/LG/MG/SG tags.
+- Ideas log now requires Goal links (UG/LG).
 - Specs updated:
   - `PROJECTIONS_VOCABULARY.md`
   - `CATALOG_ITEM_CONTRACT.md`
@@ -38,3 +41,5 @@ Short, current-state reference. For concept/intent, see `PROJECT_OVERVIEW.md`.
 
 ## See also
 - `PROJECT_OVERVIEW.md`
+- `extended-mind/docs/system/*`
+- `extended-mind/docs/ideas/IDEAS_LOG.md`
