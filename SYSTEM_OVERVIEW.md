@@ -27,6 +27,8 @@ Short, current-state reference. For concept/intent, see `PROJECT_OVERVIEW.md`.
 - System docs established in `extended-mind/docs/system` (intent, goals, functions, guardrails, checks).
 - Mechanisms-to-goals map added (`MECHANISMS_TO_GOALS.md`) with UG/LG/MG/SG tags.
 - Ideas log now requires Goal links (UG/LG).
+- Self‑description goals introduced (LG/MG) with narrative trace rule.
+- Practices v1 expanded to 14 axial practices.
 - Specs updated:
   - `PROJECTIONS_VOCABULARY.md`
   - `CATALOG_ITEM_CONTRACT.md`

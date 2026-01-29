@@ -10,15 +10,18 @@
 - Введена система целей UG/LG/MG/SG и правило обязательной привязки к UG/LG
 - Добавлены: `SYSTEM_INTENT`, `SYSTEM_GOALS`, `SYSTEM_FUNCTIONS`, `SYSTEM_GUARDRAILS`, `SYSTEM_CHECKS`
 - Добавлен `DECISION_BACKBONE` и `MECHANISMS_TO_GOALS`
+- Добавлены цели самоописания (LG/MG) и правило narrative trace
 
 ### Идеи и сверка
 - `IDEAS_LOG.md` переведён на human‑first (RU) + machine tags
 - Goal links оформлены как `[UG-*]`/`[LG-*]`/`[MG-*]`/`[SG-*]`
 - `SYSTEM_CHECKS.md` обновлён под механизмы и goal links
+- `MECHANISMS_TO_GOALS.md` расширен блоком Self‑description & Narrative Trace
 
 ### System Fix
 - Добавлен шаблон и чеклист System Fix в `CHECKPOINT_GUIDE.md`
 - Обновлён `SYSTEM_OVERVIEW.md` (текущее состояние)
+- Расширены практики v1 в `PRACTICES_SPEC.md`
 
 ---
 
