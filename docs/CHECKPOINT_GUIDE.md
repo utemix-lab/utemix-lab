@@ -30,6 +30,7 @@ Checkpoint — это снимок состояния экосистемы с а
 - раздать фичи персонажам (если было)
 - обновить story-node (если было)
 - выгрузка на GitHub (commit + push)
+- rebuild Hugging Face Space (через push)
 
 ### Результат
 - единый “след” в истории
@@ -67,6 +68,7 @@ Checkpoint — это снимок состояния экосистемы с а
 ## GitHub экспорт
 - [ ] commit
 - [ ] push
+- [ ] HF Space rebuild (push triggers)
 
 ---
 
@@ -82,6 +84,7 @@ Checkpoint — это снимок состояния экосистемы с а
 - [ ] Обновить story-node (если было)
 - [ ] Раздать фичи персонажам (если было)
 - [ ] Commit + push
+- [ ] HF Space rebuild (если изменения в `spaces/`)
 
 ---
 
