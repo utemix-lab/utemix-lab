@@ -32,6 +32,13 @@ Checkpoint — это снимок состояния экосистемы с а
 - выгрузка на GitHub (commit + push)
 - rebuild Hugging Face Space (через push)
 - rebuild UI surfaces (dream-graph / site / demos) при наличии изменений
+- dream-graph build + deploy (если менялся `dream-graph/`)
+
+### Поддержка витрин (цементация)
+- не удалять скрипты и workflow, которые пересобирают витрины
+- ключевые workflow: `.github/workflows/publish-space.yml`, `.github/workflows/auto-map.yml`, `.github/workflows/publish-kb.yml`
+- ключевые скрипты: `scripts/build_doc_index.py`, `scripts/build_graph.py`
+- ключевой билд-пакет: `tools/kb_build/` (build + requirements)
 
 ### Результат
 - единый “след” в истории
@@ -71,6 +78,7 @@ Checkpoint — это снимок состояния экосистемы с а
 - [ ] push
 - [ ] HF Space rebuild (push triggers)
 - [ ] UI surfaces rebuild (if touched)
+- [ ] dream-graph build + deploy (если менялся `dream-graph/`)
 
 ---
 
@@ -88,6 +96,7 @@ Checkpoint — это снимок состояния экосистемы с а
 - [ ] Commit + push
 - [ ] HF Space rebuild (если изменения в `spaces/`)
 - [ ] UI surfaces rebuild (если изменения в интерфейсе)
+- [ ] dream-graph build + deploy (если изменения в `dream-graph/`)
 
 ---
 
