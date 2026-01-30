@@ -24,6 +24,9 @@ Short, current-state reference. For concept/intent, see `PROJECT_OVERVIEW.md`.
 - Exports manifest structured as `exports.catalogs` + `exports.registries`.
 - `loadExports()` in `dream-graph` handles manifest + fallback.
 - Flags stored as `contracts/public/assets/flags/*.png`.
+- Workbench layer documented (Character/Workbench spec + v2 workbenches for Vova).
+- Signals + curated sets introduced as JSONL rows (no canon nodes).
+- HF control room: Graph + Telegram Content in Space (read-only graph from contracts).
 - System docs established in `extended-mind/docs/system` (intent, goals, functions, guardrails, checks).
 - Mechanisms-to-goals map added (`MECHANISMS_TO_GOALS.md`) with UG/LG/MG/SG tags.
 - Ideas log now requires Goal links (UG/LG).
