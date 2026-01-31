@@ -37,6 +37,9 @@ Short, current-state reference. For concept/intent, see `PROJECT_OVERVIEW.md`.
   - `CATALOG_ITEM_CONTRACT.md`
   - `POINTER_TAGS_AND_QUERY_MODE.md`
   - `COUNTRY_CONTEXT.md`
+- Living Book Interface goal added (UG‑5) with mechanism links.
+- Coverage map reframed as a book‑map (`coverage-map-full.md`) with narrative anchor.
+- Story‑nodes added for Living Book Interface and book‑map consolidation.
 
 ## Explicit non-goals (now)
 - No facets/tag-ocean UI

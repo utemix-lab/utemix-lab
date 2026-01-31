@@ -12,6 +12,8 @@ It is designed for:
 - demonstrating paths of thought and work (via characters and practices),
 - future RAG/LLM integration without rewriting the architecture.
 
+It should feel like a living book‑map: a readable world, not a catalog.
+
 ## 2) Core principle
 Minimal canon — maximal coverage.
 
