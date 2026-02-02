@@ -145,3 +145,4 @@ Architecture already anticipates this.
 
 ## See also
 - `SYSTEM_OVERVIEW.md`
+- `extended-mind/docs/system/INTERFACE_STAGE_CONTEXT.md`

@@ -51,3 +51,4 @@ Short, current-state reference. For concept/intent, see `PROJECT_OVERVIEW.md`.
 - `PROJECT_OVERVIEW.md`
 - `extended-mind/docs/system/*`
 - `extended-mind/docs/ideas/IDEAS_LOG.md`
+- `extended-mind/docs/system/INTERFACE_STAGE_CONTEXT.md`

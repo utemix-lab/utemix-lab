@@ -118,9 +118,23 @@ R:\
 └── godot-sandbox/           # Godot sandbox
 ```
 
-## Лицензия
+## Лицензирование и авторство
 
-**Все 9 репозиториев под единой лицензией MIT.**
+Проект использует слоистую модель лицензирования:
+
+- **Core** (оркестрация, агенты, RAG): `LICENSE_CORE` (AGPL-3.0)  
+- **Clients** (SDK, IDE-плагины, адаптеры): `LICENSE_CLIENTS` (Apache-2.0)  
+- **Content** (нарративы, миры, идентичность, медиа): `CONTENT_LICENSE.md` (All Rights Reserved)
+
+Подробные правила и атрибуции:
+
+- `AUTHORS.md`  
+- `THIRD_PARTY_NOTICES.md`  
+- `extended-mind/docs/system/LICENSING_AND_ATTRIBUTION_LAYER.md`
+
+Мини-проверка слоя лицензий:
+
+- `scripts/license-audit.py`
 
 ---
 
